@@ -2,12 +2,14 @@
 
 O projeto Consumer & Market Insights tem como objetivo integrar dados de pesquisa em um portal de visualizações de dados. Isso proporcionará agilidade na tomada de decisões e democratizará as informações de pesquisa para toda a empresa. Além disso, análises para responder a perguntas de negócio dadas na proposta do case técnico.
 
+Acesse [aqui](https://app.powerbi.com/view?r=eyJrIjoiZjA5MzFiYTktMTcyYS00YTJhLThiYzctYjFiMjFkODAwYTlkIiwidCI6IjhiYTNjZTE2LWVhYjEtNDBlMC05ZWRlLWM1NDk2Mjk0NzYwYyJ9) o dashboard em PowerBI.
+
 ### Tecnologias Utilizadas:
 
-- [Excel]():
-- [SQL]():
-- [Python]():
-- [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZjA5MzFiYTktMTcyYS00YTJhLThiYzctYjFiMjFkODAwYTlkIiwidCI6IjhiYTNjZTE2LWVhYjEtNDBlMC05ZWRlLWM1NDk2Mjk0NzYwYyJ9):
+- [Excel]()
+- [SQL]()
+- [Python]()
+- [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZjA5MzFiYTktMTcyYS00YTJhLThiYzctYjFiMjFkODAwYTlkIiwidCI6IjhiYTNjZTE2LWVhYjEtNDBlMC05ZWRlLWM1NDk2Mjk0NzYwYyJ9)
 
 ### Etapas de Desenvolvimento: 
 Modelagem para integração de dados de pesquisa.
